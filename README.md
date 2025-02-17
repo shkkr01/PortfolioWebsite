@@ -22,4 +22,4 @@ This is the source code for my personal portfolio website. It showcases my skill
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/shkkr01/PortfolioWebsiteNew.git
+git clone https://github.com/shkkr01/PortfolioWebsite.git
