@@ -11,8 +11,8 @@
     --black: #000;
     --primary-grey: #424242;
     --secondary-grey: #F5F6F8;
-    --primary-blue: #2F80ED;
-    --secondary-blue: #A8DADC;
+    --primary-pink: #2F80ED;
+    --secondary-pink: #A8DADC;
 }
 html{
     scroll-behavior: smooth;
