@@ -6,14 +6,13 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-:root{
-    --white:#FFF;
-    --black: #000;
-    --primary-grey: #424242;
-    --secondary-grey: #F5F6F8;
-    --primary-pink: #FF4967;
-    --secondary-pink: #FECED6;
-
+:root {
+    --white: #FFFFFF;
+    --black: #1E1E1E;
+    --primary-grey: #3A3A3A;
+    --secondary-grey: #EAEAEA;
+    --primary-blue: #2F80ED;
+    --secondary-blue: #A8DADC;
 }
 html{
     scroll-behavior: smooth;
